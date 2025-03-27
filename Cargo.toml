@@ -3,5 +3,7 @@ name = "sdl2-rust"
 version = "0.1.0"
 edition = "2024"
 
-[dependencies]
-sdl2 = "0.37.0"
+[dependencies.sdl2]
+version = "0.37.0"
+default-features = false
+features = ["mixer"]
