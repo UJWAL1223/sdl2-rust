@@ -1,0 +1,1 @@
+This repo is what i learned in sdl2 for my game engine and i will be creating brick breaker with just sdl2 and rust 
